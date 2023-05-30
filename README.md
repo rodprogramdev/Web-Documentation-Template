@@ -43,7 +43,7 @@ Laravel Project for Beginners
 ```
 ---
 ## Sitemap Link: 
-> ### Sitemap Generator: https://www.xml-sitemaps.com/
+> ### Sitemap Generator: [Sitemap] https://www.xml-sitemaps.com/
 
 ```
 Sitemap Details
@@ -169,17 +169,22 @@ https://github.com/rodprogramdev/Unity-Game-Development-Docs-Template
 
 ---
 ### SCREEN SHOT OF GOOGLE PAGE SPEED INSIGHTS MOBILE
+**You can replace the image below**
+![image](https://github.com/rodprogramdev/Web-Documentation-Template/assets/44669373/6e4133d2-fa1d-41e3-8778-939ee4a13492)
 ---
 ### SCREEN SHOT OF GOOGLE PAGE SPEED INSIGHTS DESKTOP
+**You can replace the image below**
+![image](https://github.com/rodprogramdev/Web-Documentation-Template/assets/44669373/cae1fda9-1794-480e-b22a-c319d2ae74f8)
+
 ---
 ## ADDITIONAL POST-RELEASE FEATURES (OPTIONAL)
-
+```
 1.
 2.
 3.
 4.
 5.
-
+```
 ---
 ## Issue or Bugs Encountered
 ---
@@ -197,6 +202,17 @@ https://github.com/rodprogramdev/Unity-Game-Development-Docs-Template
 
 ◻️◼️◾️◽️▪️▫️
 
+**REFERENCE TO COLOR LABELS**
+```
+https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
+```
+
+### MARKDOWN REFERENCE:
+
+```
+Creating links
+[Link text Here](https://sample-link-url-here.coms)
+```
 
 
 
