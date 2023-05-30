@@ -23,7 +23,7 @@ Sample Team Name
 ---
 ## Team Lead's name and Job Description Role: 
 ```
-Rodrigo Bonzerr S. Lopez - Full-stack Web Developer Instructor
+Sample Team Lead Name and Role - Full stack web developer instructor 
 ```
 
 ---
