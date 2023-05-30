@@ -1,4 +1,5 @@
 # Web-Development-Documentation-Template
+## Description: This is a README.md file that hopes to help give members of a team to start documenting their projects and describe what contributions members have made. 
 
 # Project Title -
 # TEAM NAME : 
