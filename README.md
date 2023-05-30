@@ -3,11 +3,13 @@
 ---
 ## Proposed Project Title:
 > **Description:(You can delete this section when you've decided)** Describe the project title 
+```diff
 - Title 1
-- Title 2
-- Title 3
-- Title 4
-- Title 5
++ Title 2
+! Title 3
+# Title 4 #
+@@ Title 5 @@
+```
 ---
 ## Approved Project Title:
 ---
@@ -25,7 +27,32 @@
 ## Background Of The project:
 > Describe the background of the project you  are making. You can indicate possible solution or problem you want to solve. 
 ---
-## Sitemap:
+## Sitemap Link: 
+> ### Sitemap Generator: https://www.xml-sitemaps.com/
+---
+## Github Project Board Link: 
+> Github Project Board:
+> Trello Board:
+---
+## Team Communication Notes:
+> **Description**: Your team can decide which platform you would like to use to communicate updates related to the project.
+- Github Organization Teams Discussion
+- Slack
+- Discord
+- Messenger FB
+
+---
+
+## Design Notes
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+### Color Palette:
+- Primary :
+- Secondary :
+- Accent 1 :
+- Accent 1 :
 ---
 ## Wireframe LFD Link: 
 ---
@@ -45,6 +72,7 @@
 2. 
 3. 
 4. 
+
 ---
 ## TEAM CONTRIBUTORS and CONTRIBUTIONS:
 1. Rodrigo Bonzerr S. Lopez: Overall Course design, Creation of Project Documentation Template.
@@ -92,7 +120,18 @@
 ## Issue or Bugs Encountered
 ---
 
+### LABELS EMOJI
+🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑⭕
 
+🟥🟧🟨🟩🟦🟪🟫⬛⬜🔲🔳⏹☑✅❎
+
+❤️🧡💛💚💜💙🤎🖤🤍♥️💔💖💘💝💗💓💟💕❣️♡
+
+🔺🔻🔷🔶🔹🔸♦💠💎💧🧊
+
+🏴🏳🚩🏁
+
+◻️◼️◾️◽️▪️▫️
 
 
 
