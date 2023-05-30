@@ -1,7 +1,6 @@
 # Web-&-Gamedev-Documentation-Template
 
-# Project Title - Object Oriented PHP Login System
-
+# Project Title -
 # TEAM NAME : 
 
 # Full-stack Web Developer Instructor: Rodrigo Bonzerr S. Lopez
