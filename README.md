@@ -198,6 +198,13 @@ https://github.com/rodprogramdev/Unity-Game-Development-Docs-Template
 ```
 ---
 ## Issue or Bugs Encountered
+```
+Issue# 1
+Issue# 2 
+Issue# 3
+Issue# 4
+
+```
 ---
 
 ### LABELS EMOJI Reference 
