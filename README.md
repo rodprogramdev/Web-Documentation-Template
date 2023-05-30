@@ -1,7 +1,15 @@
 # Web-Development-Documentation-Template
-## Description: This is a README.md file that hopes to help give members of a team to start documenting their projects and describe what contributions members have made. 
+> **Description:** This is a README.md file that hopes to help give members of a team to start documenting their projects and describe what contributions members have made. 
 ---
-# Project Title -
+## Proposed Project Title -
+> **Description:(You can delete this section when you've decided)** Describe the project tile 
+- Title 1
+- Title 2
+- Title 3
+- Title 4
+- Title 5
+---
+## Approved Project Title
 ---
 ## TEAM NAME : 
 ---
@@ -64,6 +72,8 @@
 5.
 ---
 ## TESTING DONE:
+---
+## Issue Numbers Notes:
 ---
 ### SCREEN SHOT OF SCHEMA VALIDATION 
 ---
