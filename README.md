@@ -1,4 +1,4 @@
-# Web-&-Gamedev-Documentation-Template
+# Web-Development-Documentation-Template
 
 # Project Title -
 # TEAM NAME : 
