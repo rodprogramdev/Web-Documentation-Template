@@ -77,6 +77,14 @@ Sitemap Details
 - 
 ```
 ### Color Palette:
+### Resources:
+```
+- https://colorhunt.co/
+- https://lospec.com/
+
+```
+---
+
 ```
 - Primary :
 - Secondary :
@@ -159,10 +167,13 @@ https://github.com/rodprogramdev/Unity-Game-Development-Docs-Template
 - **Description**: You can describe and attach images of speed test that you've made for your site.
 ---
 ### SCREEN SHOT OF SCHEMA VALIDATION 
-#### TOOLS
+
+### TOOLS: 
 ```
 - https://validator.nu/
 - https://validator.w3.org/
+- https://pagespeed.web.dev/
+- https://search.google.com/test/mobile-friendly
 ```
 **You can replace the image below**
 ![image](https://github.com/rodprogramdev/Web-Documentation-Template/assets/44669373/4d417246-f0a9-47c1-9f97-b2255e672169)
