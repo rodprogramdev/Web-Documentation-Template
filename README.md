@@ -2,7 +2,7 @@
 > **Description:** This is a README.md file that hopes to help give members of a team to start documenting their projects and describe what contributions members have made. 
 ---
 ## Proposed Project Title:
-> **Description:(You can delete this section when you've decided)** Describe the project title 
+> **Description: You can delete this section when you've decided the name of your project** Describe the project title 
 ```diff
 - Title 1
 + Title 2
