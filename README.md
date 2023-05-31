@@ -89,7 +89,7 @@ Sitemap Details
 - Primary :
 - Secondary :
 - Accent 1 :
-- Accent 1 :
+- Accent 2 :
 ```
 ---
 ## Wireframe LFD Link: 
